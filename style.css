@@ -1,0 +1,26 @@
+body{background-color: #e9eaea;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20 px;
+    margin: 50 px;
+}
+
+p{color: grey;
+}
+
+h1{font-weight: none;
+    color: #f65b5c;
+    font-size: 20 px;
+
+}
+
+.grijs{ color: grey;}
+
+a{ 
+    border: 5px #f65b5c;
+    background-color: #f65b5c;
+    color:#fff;
+    background-size: 50 px;
+    padding: 10px;
+    text-decoration: none;
+}
+
